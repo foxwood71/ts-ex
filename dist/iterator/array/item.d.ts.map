@@ -1,0 +1,1 @@
+{"version":3,"file":"item.d.ts","sourceRoot":"","sources":["../../../src/iterator/array/item.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,IAAI;IACvB,OAAO,CAAC,KAAK,CAAS;IACtB,OAAO,CAAC,KAAK,CAAS;gBAEV,IAAI,EAAE,MAAM,EAAE,IAAI,EAAE,MAAM;IAOtC,IAAI,IAAI,IAAI,MAAM,CAEjB;IAED,IAAI,IAAI,IAAI,MAAM,CAEjB;CACF"}

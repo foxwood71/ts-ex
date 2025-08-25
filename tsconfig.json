@@ -54,6 +54,7 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src/**/*"],
+  // "include": ["src/**/*"],
+  "include": ["src/strategy/**/*"],
   "exclude": ["dist"]
 }

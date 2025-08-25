@@ -1,0 +1,1 @@
+{"version":3,"file":"GaussSumStrategy.d.ts","sourceRoot":"","sources":["../src/strategy/GaussSumStrategy.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,WAAW,MAAM,eAAe,CAAC;AAE7C,MAAM,CAAC,OAAO,OAAO,gBAAiB,YAAW,WAAW;IAC1D,GAAG,CAAC,CAAC,EAAE,MAAM,GAAG,MAAM;CAGvB"}
