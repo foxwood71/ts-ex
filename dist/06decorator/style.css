@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+pre {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  color: white;
+  font-size: 2em;
+  font-family: "Couruer New", Courier, monospace;
+  padding: 1em;
+}

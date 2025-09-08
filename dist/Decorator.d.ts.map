@@ -1,0 +1,1 @@
+{"version":3,"file":"Decorator.d.ts","sourceRoot":"","sources":["../src/06decorator/Decorator.ts"],"names":[],"mappings":"AAAA,OAAO,IAAI,MAAM,QAAQ,CAAC;AAE1B,MAAM,CAAC,OAAO,CAAC,QAAQ,OAAO,SAAU,SAAQ,IAAI;IAClD,SAAS,CAAC,UAAU,EAAE,IAAI,CAAC;gBACf,SAAS,EAAE,IAAI;CAI5B"}
