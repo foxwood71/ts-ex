@@ -1,0 +1,1 @@
+{"version":3,"file":"Number.d.ts","sourceRoot":"","sources":["../src/08Flyweight/Number.ts"],"names":[],"mappings":"AAAA,OAAO,YAAY,MAAM,gBAAgB,CAAC;AAE1C,MAAM,CAAC,OAAO,OAAO,MAAM;IACzB,OAAO,CAAC,QAAQ,CAAe;IAC/B,OAAO,CAAC,IAAI,CAAS;gBAET,OAAO,EAAE,YAAY,EAAE,GAAG,EAAE,MAAM;IAK9C,GAAG,CAAC,GAAG,EAAE,OAAO;CAwBjB"}

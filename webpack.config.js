@@ -1,12 +1,14 @@
 const path = require("path");
 module.exports = {
   mode: "development",
-  //entry: "./src/iterator/array/index.ts",
-  //entry: "./src/strategy/index.ts",
-  //entry: "./src/template/index.ts",
-  //entry: "./src/adapter/index.ts",
-  //entry: "./src/bridge/index.ts",
-  entry: "./src/06decorator/index.ts",
+  //entry: "./src/01Iterator/array/index.ts",
+  //entry: "./src/02Strategy/index.ts",
+  //entry: "./src/03Template/index.ts",
+  //entry: "./src/04Adapter/index.ts",
+  //entry: "./src/05Bridge/index.ts",
+  //entry: "./src/06Decorator/index.ts",
+  //entry: "./src/07Singleton/index.ts",
+  entry: "./src/08Flyweight/index.ts",
   devtool: "inline-source-map",
   module: {
     rules: [

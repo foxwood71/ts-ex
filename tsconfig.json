@@ -48,17 +48,28 @@
 
     /* Linting */
     "strict": true,
+    // 상위 옵션인 strict가 truc 시 아래의 7개의 옵션이 전부 적용됨
+    // noImplicitAny
+    // noImplicitThis
+    // strictNullChecks
+    // strictFunctionTypes
+    // strictBindCallApply
+    // strictPropertyInitialization
+    // useUnknownInCatchVariables
+
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  //"include": ["src/01iterator/array/**/*"],
-  //"include": ["src/02strategy/**/*"],
-  //"include": ["src/03template/**/*"],
-  //"include": ["src/04adapter/**/*"],
-  //"include": ["src/05bridge/**/*"],
-  "include": ["src/06decorator/**/*"],
+  //"include": ["src/01Iterator/array/**/*"],
+  //"include": ["src/02Strategy/**/*"],
+  //"include": ["src/03Template/**/*"],
+  //"include": ["src/04Adapter/**/*"],
+  //"include": ["src/05Bridge/**/*"],
+  //"include": ["src/06Decorator/**/*"],
+  //"include": ["src/07Singleton/**/*"],
+  "include": ["src/08Flyweight/**/*"],
   "exclude": ["dist"]
 }
