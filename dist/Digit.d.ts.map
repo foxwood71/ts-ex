@@ -1,1 +1,0 @@
-{"version":3,"file":"Digit.d.ts","sourceRoot":"","sources":["../src/08Flyweight/Digit.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,KAAK;IACxB,OAAO,CAAC,KAAK,CAA8B;IAC3C,OAAO,CAAC,IAAI,CAAS;gBAET,GAAG,EAAE,MAAM;IAIvB,OAAO,CAAC,IAAI;IAcZ,GAAG,CAAC,GAAG,EAAE,OAAO,GAAG,IAAI;CAmBxB"}

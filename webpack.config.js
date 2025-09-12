@@ -8,7 +8,9 @@ module.exports = {
   //entry: "./src/05Bridge/index.ts",
   //entry: "./src/06Decorator/index.ts",
   //entry: "./src/07Singleton/index.ts",
-  entry: "./src/08Flyweight/index.ts",
+  //entry: "./src/08Flyweight/index.ts",
+  //entry: "./src/09Composite/index.ts",
+  entry: "./src/10Factorymethod/index.ts",
   devtool: "inline-source-map",
   module: {
     rules: [

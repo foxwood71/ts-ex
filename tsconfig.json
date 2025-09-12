@@ -70,6 +70,8 @@
   //"include": ["src/05Bridge/**/*"],
   //"include": ["src/06Decorator/**/*"],
   //"include": ["src/07Singleton/**/*"],
-  "include": ["src/08Flyweight/**/*"],
+  //"include": ["src/08Flyweight/**/*"],
+  //"include": ["src/09Composite/**/*"],
+  "include": ["src/10Factorymethod/**/*"],
   "exclude": ["dist"]
 }
