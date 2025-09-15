@@ -1,0 +1,22 @@
+.home {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.home div {
+  border: 2px solid black;
+  width: 100rem;
+  height: 10rem;
+  border-radius: 1rem;
+  background-color: #34495e;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.home div.hilighting {
+  background-color: #1abc9c;
+}
