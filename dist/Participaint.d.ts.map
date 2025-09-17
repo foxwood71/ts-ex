@@ -1,1 +1,0 @@
-{"version":3,"file":"Participaint.d.ts","sourceRoot":"","sources":["../src/12Mediator/Participaint.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,QAAQ,MAAM,YAAY,CAAC;AAEvC,MAAM,CAAC,OAAO,CAAC,QAAQ,OAAO,YAAY;IACxC,SAAS,CAAC,SAAS,EAAE,QAAQ,CAAC;gBAElB,QAAQ,EAAE,QAAQ;IAG9B,QAAQ,CAAC,YAAY,CAAC,GAAG,EAAE,WAAW,GAAG,IAAI;CAC9C"}
