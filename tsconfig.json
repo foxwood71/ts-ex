@@ -75,6 +75,7 @@
   //"include": ["src/10Factorymethod/**/*"],
   //"include": ["src/11Observer/**/*"],
   //"include": ["src/12Mediator/**/*"],
-  "include": ["src/13Memento/**/*"],
+  //"include": ["src/13Memento/**/*"],
+  "include": ["src/14Proxy/**/*"],
   "exclude": ["dist"]
 }

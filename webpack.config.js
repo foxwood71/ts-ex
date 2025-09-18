@@ -13,7 +13,8 @@ module.exports = {
   //entry: "./src/10Factorymethod/index.ts",
   //entry: "./src/11Observer/index.ts",
   //entry: "./src/12Mediator/index.ts",
-  entry: "./src/13Memento/index.ts",
+  //entry: "./src/13Memento/index.ts",
+  entry: "./src/14Proxy/index.ts",
   devtool: "inline-source-map",
   module: {
     rules: [
