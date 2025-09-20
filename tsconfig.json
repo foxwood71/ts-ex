@@ -76,6 +76,15 @@
   //"include": ["src/11Observer/**/*"],
   //"include": ["src/12Mediator/**/*"],
   //"include": ["src/13Memento/**/*"],
-  "include": ["src/14Proxy/**/*"],
+  //"include": ["src/14Proxy/**/*"],
+  "include": ["src/15ChainOfResponsibilty/**/*"],
+  //"include": ["src/16Prototype/**/*"],
+  //"include": ["src/17Facade/**/*"],
+  //"include": ["src/18Builder/**/*"],
+  //"include": ["src/19Command/**/*"],
+  //"include": ["src/20AbstractFactory/**/*"],
+  //"include": ["src/21State/**/*"],
+  //"include": ["src/22Interpreter/**/*"],
+  //"include": ["src/23Visitor/**/*"],
   "exclude": ["dist"]
 }
