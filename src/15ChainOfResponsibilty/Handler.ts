@@ -1,13 +1,14 @@
 export default abstract class Handler {
   protected nextHandler: Handler | null = null;
 
-  setNext(handler: Handler): Handler {
+  protected abstract process(url: string): void;
+
+  public setNext(handler: Handler): Handler {
     this.nextHandler = handler;
     return handler;
   }
 
-  protected abstract process(url: string): void;
-  run(url: string): void {
+  public run(url: string): void {
     this.process(url);
     if (this.nextHandler) this.nextHandler.run(url);
   }
